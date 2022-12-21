@@ -13,6 +13,8 @@
 	<li>Proteger página se não houver o login</li>
 	<li>Criar novo usuário</li>
 </ul>
+<p>Para utilizar, crie uma tabela no banco de dados com as colunas "email" e "senha", após isso, basta configurar o arquivo "conexao.php" com as informações do seu banco de dados MySQL</p>
+
 <h1>Login</h1>
 
 ![img](https://user-images.githubusercontent.com/65497757/208996426-53d0125e-6936-4b2f-9a18-122af3f49fad.PNG)
